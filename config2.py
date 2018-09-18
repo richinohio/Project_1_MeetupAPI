@@ -1,1 +1,1 @@
-gkey = 'IzaSyAArrMUy0IYUGD9k-rRv-rRx0FpH621vvM'
+gkey = 'AIzaSyAArrMUy0IYUGD9k-rRv-rRx0FpH621vvM'
